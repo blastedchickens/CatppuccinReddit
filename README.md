@@ -10,6 +10,6 @@ Installation:
 
 2. [Install Stylus for your browser](https://github.com/openstyles/stylus)
 
-3 Install the theme [here](https://userstyles.world/api/style/7170.user.css)
+3. Install the theme [here](https://userstyles.world/api/style/7170.user.css)
 
 More flavours are coming (probably)
