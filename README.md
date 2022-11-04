@@ -6,6 +6,10 @@ Soothing pastel theme for Reddit
 
 Installation:
 
-1. [Install Stylus for your browser](https://github.com/openstyles/stylus)
+1. Set your Reddit to Dark Mode
 
-2. Install the theme [here](https://userstyles.world/api/style/7170.user.css)
+2. [Install Stylus for your browser](https://github.com/openstyles/stylus)
+
+3 Install the theme [here](https://userstyles.world/api/style/7170.user.css)
+
+More flavours are coming (probably)
